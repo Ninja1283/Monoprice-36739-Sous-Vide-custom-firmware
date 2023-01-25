@@ -38,7 +38,8 @@ The product in question is [this](https://www.monoprice.com/product?p_id=36739) 
 
 [sousvide.yaml](/docs/sousvide.yaml)
 
-##Acknowledgements
+## Acknowledgements
 
 @ssieb for their insight on using the climate component in ESPHome
+
 @blakadder for their information about DP IDs
