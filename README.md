@@ -2,6 +2,10 @@
 
 Instructions, tips, and information about DP IDs, ESPHome firmware, and integrating the 1100W Strata Home by Monoprice Smart Sous Vide Precision Cooker Powered by STITCH Wireless with Home Assistant.
 
+DPs and ESPHome yaml below. See the [Wiki](/wiki) for more info and full wrietup.
+
+If you would like a deeper dive on how to obtain DP IDs (or other Tuya-related information), or how to set up ESPHome, check out the Wiki in my similar [heater repository](https://github.com/Ninja1283/HS-1500-WIFI_Heat_Storm_Phoenix-1500-Watt_Smart_Wall_Mounted_Heater/wiki).
+
 ## Background
 
 I've tried to avoid Tuya devices (and cloud-based devices in general) when making IOT product selections, but by the end of the recent holiday season, I ended up with two Tuya devices: a Sous Vide stick, and a infrared heater. (For the purpose of this project, we'll focus on the Sous Vide. I have a separate repository for the Heater [here](https://github.com/Ninja1283/HS-1500-WIFI_Heat_Storm_Phoenix-1500-Watt_Smart_Wall_Mounted_Heater))
