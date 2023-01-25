@@ -10,7 +10,7 @@ If you would like a deeper dive on how to obtain DP IDs (or other Tuya-related i
 
 I've tried to avoid Tuya devices (and cloud-based devices in general) when making IOT product selections, but by the end of the recent holiday season, I ended up with two Tuya devices: a Sous Vide stick, and a infrared heater. (For the purpose of this project, we'll focus on the Sous Vide. I have a separate repository for the Heater [here](https://github.com/Ninja1283/HS-1500-WIFI_Heat_Storm_Phoenix-1500-Watt_Smart_Wall_Mounted_Heater))
 
-I briefly tried using the HA Tuya Integrations, but both options seemed a bit clunky and limiting, and the Sous Vide completely disconnected twice. The second time this happened, I notcied that the discovery network followed the same ESP_XXXXXX common among other Espressif ESP based devices. After using the MAC address to confirm that it was indeed an Espressif Wifi module, I decided it was time to reflash the device.
+I briefly tried using the HA Tuya Integrations, but both options seemed a bit clunky and limiting, and the Sous Vide completely disconnected twice. The second time this happened, I notcied that the discovery network followed the same ESP_XXXXXX common among other Espressif ESP based devices. After using the MAC address to confirm that it was indeed an Espressif compatible (TYWE1S) Wifi module, I decided it was time to reflash the device.
 
 I learned a bit along the way, and thought I would share my experiences, as many of existing guides and tips that I found are now out of date.
 
