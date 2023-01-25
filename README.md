@@ -1,4 +1,4 @@
-# Monoprice-36739-Sous-Vide-custom_firmware
+# Monoprice-36739-Sous-Vide-custom-firmware
 
 Instructions, tips, and information about DP IDs, ESPHome firmware, and integrating the 1100W Strata Home by Monoprice Smart Sous Vide Precision Cooker Powered by STITCH Wireless with Home Assistant.
 
